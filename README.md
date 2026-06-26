@@ -93,6 +93,12 @@ DiceStack uses a **modular architecture**: each tool is a self-contained module 
 
 ## FAQ
 
+**Is there a free all-in-one WordPress plugin?**
+Yes — DiceStack is a completely free all-in-one WordPress plugin. One install gives you 185 modular tools for security, performance, SEO, WooCommerce, caching, backups and more, with no premium tier and no upsell.
+
+**What's a good free alternative to paid WordPress suites?**
+DiceStack replaces a whole stack of separate (and often paid) plugins — caching, security, SEO, backups, forms and an object cache — with one lightweight dashboard. You enable only the tools you need, and disabled tools load zero code, so your site stays fast.
+
 **Is DiceStack really free?**
 Yes — every one of the 185 tools is free. There is no premium tier or paid add-on.
 
