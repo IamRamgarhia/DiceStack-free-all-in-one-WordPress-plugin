@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1544 500" width="1544" height="500" role="img" aria-label="OmniWP banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16386b"/>
+      <stop offset="1" stop-color="#0b2545"/>
+    </linearGradient>
+    <linearGradient id="cy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0bb8d9"/>
+      <stop offset="1" stop-color="#0a78a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1544" height="500" fill="url(#bg)"/>
+  <circle cx="1280" cy="80" r="480" fill="#1b4a86" opacity="0.35"/>
+  <g transform="translate(120,140)">
+    <circle cx="110" cy="110" r="88" fill="none" stroke="url(#cy)" stroke-width="18"/>
+    <g fill="#0bb8d9">
+      <circle cx="110" cy="22" r="18"/><circle cx="198" cy="110" r="18"/>
+      <circle cx="110" cy="198" r="18"/><circle cx="22" cy="110" r="18"/>
+    </g>
+    <path d="M68 92 l18 60 l18 -42 l18 42 l18 -60" fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="380" y="240" font-family="Segoe UI,Arial,sans-serif" font-size="124" font-weight="800" fill="#ffffff" letter-spacing="-2">OmniWP</text>
+  <text x="384" y="312" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="600" fill="#9fe8f5">One free plugin · 180+ tools · zero bloat</text>
+  <text x="384" y="372" font-family="Segoe UI,Arial,sans-serif" font-size="30" fill="#9fb2cf">Caching · Security · SEO · WooCommerce · Backups · Redis object cache · by Dice Codes</text>
+</svg>

@@ -1,0 +1,27 @@
+# Files and folders excluded from the distributed plugin zip / SVN build.
+# Keeps the WordPress.org package lean and under the 10 MB limit.
+
+/.git
+/.github
+/.wordpress-org
+/README.md
+/node_modules
+/vendor
+/tests
+/.distignore
+/.gitignore
+/composer.json
+/composer.lock
+/package.json
+/package-lock.json
+/phpcs.xml
+/phpcs.xml.dist
+/phpunit.xml
+/phpunit.xml.dist
+/webpack.config.js
+/.editorconfig
+*.map
+*.scss
+*.ts
+*.zip
+.DS_Store

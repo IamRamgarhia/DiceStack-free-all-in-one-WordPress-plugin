@@ -1,0 +1,28 @@
+# Copyright (C) 2026 Dice Codes
+# This file is distributed under the GPL-2.0-or-later license.
+msgid ""
+msgstr ""
+"Project-Id-Version: DiceStack 1.0.0\n"
+"Report-Msgid-Bugs-To: https://dicecodes.com/dicestack\n"
+"Last-Translator: Dice Codes <Contact@dicecodes.com>\n"
+"Language-Team: Dice Codes <Contact@dicecodes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-06-26T00:00:00+00:00\n"
+"X-Domain: dicestack\n"
+
+# DiceStack uses the text domain "dicestack" on every string (load_plugin_textdomain
+# in includes/Core.php). To regenerate the complete catalogue from source, run:
+#   wp i18n make-pot . languages/dicestack.pot --domain=dicestack
+# from the plugin root with WP-CLI installed. Translators: copy this file to
+# dicestack-{locale}.po (e.g. dicestack-fr_FR.po), translate, and compile to .mo.
+
+msgid "DiceStack"
+msgstr ""
+
+msgid "by Dice Codes"
+msgstr ""
+
+msgid "Request a feature"
+msgstr ""
