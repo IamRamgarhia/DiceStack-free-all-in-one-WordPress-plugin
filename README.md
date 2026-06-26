@@ -47,6 +47,24 @@ Most WordPress sites run a dozen plugins — one for caching, one for security, 
 
 ---
 
+## A free alternative to premium WordPress plugins
+
+Looking for a **free alternative** to a paid plugin? DiceStack covers what many premium plugins charge for — in one install, all free:
+
+| Looking for a free alternative to… | Use DiceStack's built-in tools |
+|---|---|
+| **WP Rocket / W3 Total Cache** (caching) | Page Cache, Object Cache (Redis/Memcached), Minify CSS & JS, Lazy Load, Defer JS |
+| **Wordfence / Sucuri** (security) | Login Protection, Change Login URL, Security Hardening, Security Headers, Activity Log, Bad-Bot Blocking, Login Captcha |
+| **Yoast SEO Premium / All in One SEO** (SEO) | Meta Tags, Schema / JSON-LD, Breadcrumbs, Canonical Tags, Redirect Manager, robots.txt editor, Analytics (GA4) |
+| **Jetpack** (all-in-one) | Performance, security and site-management tools — without the bloat or subscription |
+| **UpdraftPlus / BlogVault** (backups) | Backup & Restore, Cloud Backup (FTP / WebDAV / Email / Google Drive) |
+| **Imagify / ShortPixel / Smush** (images) | Image Optimizer, WebP / AVIF conversion, bulk compression |
+| **WPForms / Gravity Forms** (forms) | Contact Form, Spam Shield, SMTP, universal Submissions Tracker |
+
+Every one of these is **100% free** in DiceStack — no premium tier, no upsell.
+
+---
+
 ## Screenshots
 
 | | |
